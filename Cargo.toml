@@ -15,4 +15,4 @@ edition = "2018"
 
 [dependencies]
 smart-default = "0.5"
-err-derive = "0.1"
+err-derive = "0.2"
